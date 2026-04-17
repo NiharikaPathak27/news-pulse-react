@@ -7,13 +7,13 @@ It fetches real-time news using the **News API** and displays them in an interac
 
 ##  Features
 
-* 🔴 Live news fetching using News API
-* 🔍 Search functionality for custom queries
-* 📂 Category-based filtering (Cricket, India, Technology, Politics)
-* ♾️ Infinite scroll (coming soon)
-* 🌙 Dark mode toggle
-* ⚡ Fast and dynamic UI using React components
-* 📱 Fully responsive design
+*  Live news fetching using News API
+*  Search functionality for custom queries
+*  Category-based filtering (Cricket, India, Technology, Politics)
+*  Infinite scroll (coming soon)
+*  Dark mode toggle
+*  Fast and dynamic UI using React components
+*  Fully responsive design
 
 ---
 
